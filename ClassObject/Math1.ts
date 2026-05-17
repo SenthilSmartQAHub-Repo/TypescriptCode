@@ -9,3 +9,6 @@ class Math
 
 const obj2=new Math()
 console.log(obj2.pi)
+
+
+
